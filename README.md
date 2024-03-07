@@ -1,2 +1,2 @@
-#Игра Doodle jump на python
+# Игра Doodle jump на python
 Была написана в 2022 году в качестве проекта по pygame для Яндекс.Лицея.
